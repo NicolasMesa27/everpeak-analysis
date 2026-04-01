@@ -1,5 +1,8 @@
 # 🛍️ EverPeak Retail — Limpieza y Preparación de Datos
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NicolasMesa27/everpeak-analysis/blob/main/everpeak-limpieza-datos.ipynb)
+
+
 ## Descripción del caso
 
 EverPeak es una empresa de retail con datos de clientes y órdenes de compra.
